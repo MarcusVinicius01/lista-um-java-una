@@ -3,8 +3,8 @@ Lista de exercício um, em java.
 
 Meu perfil no Linkedin(https://www.linkedin.com/in/marcus-vin%C3%ADcius-491821234/)
 
-Tecnologias utilizadas: 
+# Tecnologias utilizadas: 
 
-[JDK]
+[JDK] (https://www.oracle.com/java/technologies/downloads/)
 
-[VSCODE]
+[VSCODE] (https://code.visualstudio.com)
